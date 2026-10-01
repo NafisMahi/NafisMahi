@@ -18,7 +18,7 @@
 I'm a PhD student in Computer Science at the University of Illinois Chicago. My research sits
 at the intersection of web security and autonomous AI agents: how LLM-powered browser agents
 behave on the web, how to tell them apart from real users, and how to keep them from being
-abused. Most of my work is measurement-driven.
+abused.
 
 Before UIC I was a lecturer in Computer Science at BRAC University, and I earned my B.Sc. in
 Computer Science and Engineering at BUET.
